@@ -651,6 +651,11 @@
     tslib "2.3.0"
     uuid "8.3.2"
 
+"@nestjs/mongoose@^8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/mongoose/-/mongoose-8.0.0.tgz#5771d62a96b63ae44ee5a321d67a658bc3381fd8"
+  integrity sha512-G0Jag+L3lJjdLrStjfkY+24Ir9CJiu4IgrOKdqx2gsVDgOx22y9/NSuH8c/UqmCijQK8nKtiz1qgPRhP5ezUEw==
+
 "@nestjs/platform-express@^8.0.0":
   version "8.0.6"
   resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-8.0.6.tgz#fee8baca5eb37c5e17f350a6e514318876bd5f56"
